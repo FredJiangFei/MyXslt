@@ -1,0 +1,7 @@
+<creatures>
+  <animal species="dog"/>
+  <animal species="cat"/>
+  <animal species="cow"/>
+  <animal species="frog"/>
+  <animal species="lion"/>
+</creatures>

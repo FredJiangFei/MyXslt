@@ -1,0 +1,16 @@
+<PurchaseOrder xmlns="http://tempuri.org/PurchaseOrderSchema.xsd" OrderDate="2013-09-01">
+    <ShipTo country="US">
+        <name>John Smith</name>
+        <street>123 Lake Avenue NE</street>
+        <city>Calm Cove</city>
+        <state>NC</state>
+        <zip>999999</zip>
+    </ShipTo>
+    <BillTo country="US">
+        <name>John Smith</name>
+        <street>123 Lake Avenue NE</street>
+        <city>Calm Cove</city>
+        <state>NC</state>
+        <zip>999999</zip>
+    </BillTo>
+</PurchaseOrder>

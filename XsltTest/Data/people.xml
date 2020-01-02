@@ -1,0 +1,30 @@
+<people>
+  <person>
+    <name>John</name>
+    <age>23</age>
+    <profession>carpenter</profession>
+    <country>USA</country>
+    <salary>4000</salary>
+  </person>
+  <person>
+    <name>Ann</name>
+    <age>38</age>
+    <profession>writer</profession>
+    <country>France</country>
+    <salary>3000</salary>
+  </person>
+  <person>
+    <name>Beth</name>
+    <age>19</age>
+    <profession>student</profession>
+    <country>England</country>
+    <salary>2000</salary>
+  </person>
+  <person>
+    <name>Peter</name>
+    <age>34</age>
+    <profession>fisherman</profession>
+    <country>Ireland</country>
+    <salary>1000</salary>
+  </person>
+</people>

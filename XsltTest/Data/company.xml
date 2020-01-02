@@ -1,0 +1,26 @@
+<company>
+  <employee>
+    <name>John Andrews</name>
+    <age>23</age>
+    <salary>4000</salary>
+    <division>production</division>
+  </employee>
+  <employee>
+    <name>Ann Campbell</name>
+    <age>38</age>
+    <salary>3800</salary>
+    <division>accounting</division>
+  </employee>
+  <employee>
+    <name>Beth Sanders</name>
+    <age>19</age>
+    <salary>3000</salary>
+    <division>accounting</division>
+  </employee>
+  <employee>
+    <name>Peter Clayton</name>
+    <age>34</age>
+    <salary>4100</salary>
+    <division>production</division>
+  </employee>
+</company>
